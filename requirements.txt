@@ -1,0 +1,7 @@
+APScheduler==3.6.3
+bs4==0.0.1
+requests==2.23.0
+PyQt5==5.15.1
+PyQt5-sip==12.8.1
+pyqt5-tools==5.14.2.1.7b3
+PyQtWebEngine==5.15.1
